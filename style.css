@@ -1,0 +1,23 @@
+.box1 {
+  width: 200px;
+  height: 200px;
+  background-color: palevioletred;
+  border: 10px solid black;
+  color: white;
+}
+.box2 {
+  width: 200px;
+  height: 200px;
+  background-color: palevioletred;
+  border: 10px solid black;
+  color: white;
+  margin-left: 219.2px;
+}
+.box3 {
+  width: 200px;
+  height: 200px;
+  background-color: palevioletred;
+  border: 10px solid black;
+  color: white;
+  margin-left: 438.4px;
+}
